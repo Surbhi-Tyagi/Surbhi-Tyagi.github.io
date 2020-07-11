@@ -1390,12 +1390,7 @@ portfolio-filter-btn-group li {
   width: 100%;
 }
 
-@media only screen and (min-width: 1px) and (max-width: 480px) {
-    .magic-trick-section .btn-pro {
-        margin-left: 17%;
-        margin-right: 15%;
-    }
-}
+
 
 .magic-trick-section .btn-pro {
     background-color: #000;
